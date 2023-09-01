@@ -1,0 +1,3 @@
+2023-09-01 11:21:44 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "LOJA" not found; SQL statement:
+SELECT * FROM loja [42102-214]
