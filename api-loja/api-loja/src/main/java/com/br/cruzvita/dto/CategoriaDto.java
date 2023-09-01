@@ -12,7 +12,6 @@ import lombok.NoArgsConstructor;
 @JsonInclude(JsonInclude.Include.NON_NULL)
 public class CategoriaDto {
 
-    @NotBlank(message = "O campo nome não pode estar vazio")
     private String nome;
 
 }
