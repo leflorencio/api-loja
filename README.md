@@ -1,4 +1,4 @@
-#API Loja
+# API Loja
 <p align="center">Projeto responsável pelo registro de uma loja, com criação de produtos e pedidos, consultando dados de do cliente da API CLIENTE.</p>
 
 ###Features Categorias
