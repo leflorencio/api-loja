@@ -43,7 +43,7 @@ Receba uma solicitação para excluir um produto (Solicitação HTTP DELETE com 
 Recebe uma solicitação de atualização de um produto (Solicitação HTTP PUT com um ID do produto). Verifica se o produto existe no banco de dados. Se for existir: Atualiza os dados do produto no banco de dados. Retorna uma resposta de sucesso. Se não existir: Retorna uma reposta informando que o produto não foi localizado.
 
 
-🛠 Tecnologias
+### 🛠 Tecnologias
 As seguintes ferramentas foram usadas na construção do projeto:
 
 Java 17 - Spring Boot - API Docs - H2 Database - Gateway - Eureka
