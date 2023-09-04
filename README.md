@@ -18,6 +18,11 @@ Receba uma solicitação para excluir uma categoria (Solicitação HTTP DELETE c
 ### Atualizar
 Recebe uma solicitação de atualização de uma categoria (Solicitação HTTP PUT com um ID da categoria). Valida o nome atualizado da categoria. Se for válido: Atualiza o nome da categoria no banco de dados. Retorna uma resposta de sucesso. Se for invalido: Retorna uma reposta informando que os dados precisam ser válidos.
 
+<hr>
+
+
+
+
 🛠 Tecnologias
 As seguintes ferramentas foram usadas na construção do projeto:
 
